@@ -1,4 +1,7 @@
 ### Java template
+*.iml
+*.idea
+
 # Compiled class file
 *.class
 
